@@ -1,0 +1,1 @@
+let carroUno = {modelo: "FiatUnoMille", modelo: 1984, foraLinha: false, cores:["Branco", "Vermelho", "Prata"]};
